@@ -4,7 +4,7 @@ This is a [wiki](https://github.com/gwaredd/UnityReference/wiki) for my personal
 
 No fluff, barely any explanation, just code!
 
-To clone the wiki ...
+To clone ...
 
 > `git clone https://github.com/gwaredd/UnityReference.wiki.git`
 
