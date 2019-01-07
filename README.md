@@ -6,5 +6,5 @@ No fluff, barely any explanation, just code!
 
 To clone ...
 
-> `git clone https://github.com/gwaredd/UnityReference.wiki.git`
+`git clone https://github.com/gwaredd/UnityReference.wiki.git`
 
