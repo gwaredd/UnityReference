@@ -1,8 +1,8 @@
 # Unity Reference
 
-This is a [wiki](https://github.com/gwaredd/UnityReference/wiki) for my personal reference for unity.
+This is a [wiki](https://github.com/gwaredd/UnityReference/wiki) for my personal reference.
 
-No fluff, barely any explanation, just code!
+No fluff, barely any explanation, just code snippets!
 
 To clone ...
 
